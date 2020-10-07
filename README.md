@@ -1,6 +1,6 @@
 # PolicyQA
 
-Source code for our work, `PolicyQA: A Reading Comprehension Dataset for Privacy Policies`. [[paper](https://wasiahmad.github.io/files/publications/2020/policyqa.pdf)]
+Source code for our work, `PolicyQA: A Reading Comprehension Dataset for Privacy Policies`. [[arXiv](https://arxiv.org/abs/2010.02557)]
 
 **NOTE**: We use our own implementation during development. However, in this repository, we share source code on 
 fine-tuning BERT based on the Hugginface [transformers](https://github.com/huggingface/transformers) API.
