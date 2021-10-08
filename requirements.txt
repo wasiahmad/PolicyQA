@@ -1,8 +1,10 @@
-torch==1.2.0
-tqdm==4.42.1
+torch==1.9.0
+tqdm==4.48.0
 transformers==2.8.0
 apex==0.9.10dev
-numpy==1.21.2
+numpy==1.19.2
 ptvsd==4.3.2
 tensorboardX==2.4
 tensorflow_datasets==4.4.0
+folium==0.2.1
+imgaug==0.2.5
